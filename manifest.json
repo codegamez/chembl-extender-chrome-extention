@@ -2,9 +2,8 @@
 	"manifest_version": 3,
 	"name": "ChEMBL Extender",
 	"version": "1.0",
+	"description": "This extension will integrates ProteoSAFe search into ChEMBL search.",
 	"icons": {
-		"16": "icon.png",
-		"48": "icon.png",
 		"128": "icon.png"
 	},
 	"permissions": [],
