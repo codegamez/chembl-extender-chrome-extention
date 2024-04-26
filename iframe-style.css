@@ -1,0 +1,18 @@
+#bodyWrapper {
+	display: none;
+}
+.dataset-search {
+	display: none;
+}
+
+#main > thead > tr:nth-child(1), #main > thead > tr:nth-child(3) {
+    display: none;
+}
+
+#main > thead > tr > th > button {
+    display: none;
+}
+
+#datasetTable {
+    margin-left: 0 !important;
+}

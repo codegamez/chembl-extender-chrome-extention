@@ -1,0 +1,32 @@
+#ProteoSAFe {
+    margin-top: 40px;
+    border: none;
+    outline: 1px solid #c1c1c1;
+    transition: all 300ms;
+}
+
+#ProteoSAFe.loading {
+    opacity: 0;
+}
+
+#ProteoSAFeLoading {
+    display: none;
+    width: 40px;
+    height: 40px;
+    border: 5px solid #ccc;
+    border-radius: 50%;
+    border-top-color: #09979b;
+    animation: spin 1s linear infinite;
+    margin: auto;
+    pointer-events: none;
+}
+
+#ProteoSAFeLoading.loading {
+    display: block;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
