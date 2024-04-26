@@ -6,3 +6,6 @@ this extension will integrates [ProteoSAFe](https://gnps.ucsd.edu/ProteoSAFe/dat
 
 clone the repository and load the unpacked directory from chrome extensions page.
 
+## Links
+
+[Privacy Policy](/PRIVACY_POLICY.md)
